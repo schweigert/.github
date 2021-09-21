@@ -7,8 +7,7 @@
   Olá! Eu sou Marlon Henry Schweigert. Sou desenvolvedor Web. Eu programo sistemas web para núvem. Nas horas vagas, desenvolvo jogos para Xbox e PC 🎮.
 </p>
 
-🔭 Estou estudando:
-- nodejs (backend)
+🔭 Procurando coisas para estudar
 
 <p align="center">
   <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> 
